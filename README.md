@@ -1,4 +1,4 @@
-![image](https://github.com/PrimeTheFirst/PrimeTheFirst/assets/89402723/5f4ce278-1227-45ad-85a4-4f2b1aee3db7)### Hey 👋 ! My name is Prateek P. 
+### Hey 👋 ! My name is Prateek P. 
 I'm a student, who has learned various languages. I write fluently in JS, python, and am learning dart/flutter.
 I am currently learning flutter.
 
