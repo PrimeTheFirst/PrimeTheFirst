@@ -1,6 +1,6 @@
 ### Hey 👋 ! My name is Prateek P. 
-I'm a student, who has learned various languages. I write fluently in JS, python, and am learning dart/flutter, and have 
-I have tried many different streams, such as hacking(for about a week), game developement with unity(C#), godot, and gdevelop, but have ultimatly stuck to app developement. 
+I'm a student, who has learned various languages. I write fluently in JS, python, and am learning dart/flutter
+I have tried many different streams, such as hacking(for about a week), game development with unity(C#), godot, and gdevelop, but have ultimatly stuck to app developement. 
 I have experience with flask, less so with django, and loads with the languages of the web. I'm currently learning native app development with flutter.
 
 ![Flutter](https://camo.githubusercontent.com/42505ed86b92e00e85c7c635c7b388c3909a779d8c97463b2558e1fd21fa790f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c75747465722d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465)
