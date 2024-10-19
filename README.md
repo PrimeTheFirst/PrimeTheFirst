@@ -3,7 +3,7 @@ I'm a student, who has learned various languages. I write fluently in JS, python
 I have tried different streams, such as game development with **unity**(C#), **godot**, and **gdevelop**, but have ultimately stuck to app developement. 
 I have experience with **flask**, less so with **django**, and loads with the languages of the web. I've meddled with a _lot_ of packages, a few example being **phaser, three, matter js**, and many other libraries. I have messed with **react** and **node** too.
 
-  I'm currently learning native app development with **flutter**.            
+  I'm currently learning native app development with **flutter**, and am fairly fluent.        
 
 📫 How to reach me:    
   * Discord: **primethefirst**
